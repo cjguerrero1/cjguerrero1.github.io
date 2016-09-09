@@ -2,7 +2,7 @@ body{background-color:grey;
 	 background-image:url("art.jpg");
 	 background-repeat:no-repeat;
 	 margin:0;}
-h1,h2{color:white;}
+h1,h2,h3{color:white;}
 h4,h5{margin-left:200px;
       margin-bottom:0;
       padding:0;}
@@ -37,7 +37,7 @@ iframe{border-color:white;
 *{font-family:helvetica;}
 #header{background-color:grey;
 		margin:10px;
-		height:90px;
+		height:125px;
 		border-color:white;
 		border-width:thin;
 		border-style:ridge;
