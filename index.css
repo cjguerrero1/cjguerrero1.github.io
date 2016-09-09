@@ -1,8 +1,5 @@
 body{background-color:grey;
 	 background-image:clouds.jpg;
-	 border-color:white;
-     border-width:thick;
-     border-style:ridge;
 	 margin:0;}
 h1,h2{color:white;}
 h1{border-bottom:1px solid white;}
