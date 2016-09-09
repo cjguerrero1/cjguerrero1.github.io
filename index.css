@@ -1,5 +1,6 @@
 body{background-color:grey;
-	 background-image:clouds.jpg;
+	 background-image:url("art.jpg");
+	 background-repeat:no-repeat;
 	 margin:0;}
 h1,h2{color:white;}
 h1{border-bottom:1px solid white;}
